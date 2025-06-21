@@ -1,4 +1,5 @@
 **Shopping Website**
+
 A full-stack MERN app with a React (Vite) frontend and an Express + MongoDB backend.
 
 🔧 Tech Stack
